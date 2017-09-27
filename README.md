@@ -8,6 +8,8 @@ source urls vm.txt - contains the source url of different websites from where da
 
 spanish dictionary.txt - a txt format of the words in spanish dictionary
 
+StatsDataSample_spa_final.txt - complete statistics of all the words that are to be analyzed including the one from EU proceedings
+
 getDataURL_kidsico.py - script to download plays from the web and then process it
 
 outputFile.py -  the main script to generate the xml file. One has to be careful to execute this paths needs to be modified and the Dataset on which the script is running also needs to be checked. In the current state it will build a corpora from the EU proceedings.
