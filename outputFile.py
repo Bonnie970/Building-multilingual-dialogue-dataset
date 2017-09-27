@@ -19,7 +19,7 @@ def removeSymbols(s):
 path = 'C:\\Users\\Amar Kumar\\Dropbox\\Courses\\COMP 551-AML\\Project1\\DataSet\\'
 #path = 'C:\\Users\\akumar47\\Dropbox\\Courses\\COMP 551-AML\\Project1\\DataSet\\'
 directoryFiles = [files for files in listdir(path) if isfile(join(path, files))]
-outFile = open('ExistingCorpus_spa_final.txt','w')
+outFile = open('ExistingCorpus_spa_final.xml','w')
 outFile.write('<dialog>\n')
 statsFile = open('ExistingCorpusStats_spa_final.txt','w')
 statsFile.write('Filename \t #words \t #people \t #new words \t #utterances\n')
