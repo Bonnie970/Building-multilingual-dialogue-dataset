@@ -2,6 +2,7 @@
 Couple of useful codes for building a database containing multiple conversations in a specified language.
 Description of the files present
 
+link to the Dataset folder on dropbox: https://www.dropbox.com/home/Courses/COMP%20551-AML/Project1
 ------------------------------------------------------------------------------------------------------------------------------
 source urls vm.txt - contains the source url of different websites from where data can be loaded
 
@@ -14,3 +15,4 @@ outputFile.py -  the main script to generate the xml file. One has to be careful
 outputStats.py - script to outptut the main statistics of a file
 
 outputStats_amar.py - a modified version of outputStats.py for a defined purpose of knowing the statistics of an exisiting corpora
+
