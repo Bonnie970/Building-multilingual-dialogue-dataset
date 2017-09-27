@@ -2,7 +2,7 @@
 Couple of useful codes for building a database containing multiple conversations in a specified language.
 Description of the files present
 
-link to the Dataset folder on dropbox: https://www.dropbox.com/home/Courses/COMP%20551-AML/Project1
+link to the Dataset folder on dropbox: https://www.dropbox.com/sh/9m3dhhsydyonksc/AAAieYzU0ptzFUF2qs6NxgnSa?dl=0
 ------------------------------------------------------------------------------------------------------------------------------
 source urls vm.txt - contains the source url of different websites from where data can be loaded
 
