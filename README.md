@@ -20,3 +20,5 @@ outputStats_amar.py - a modified version of outputStats.py for a defined purpose
 
 freq_common_count.py - calculates the frequency of all the words in a data. The input file has to be a file like "StatsDataSample_spa_final.txt"
 
+Corpus_spa_final.xml - The xml file which is required by the project
+
