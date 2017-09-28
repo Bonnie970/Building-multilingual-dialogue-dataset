@@ -18,3 +18,5 @@ outputStats.py - script to outptut the main statistics of a file
 
 outputStats_amar.py - a modified version of outputStats.py for a defined purpose of knowing the statistics of an exisiting corpora
 
+freq_common_count.py - calculates the frequency of all the words in a data. The input file has to be a file like "StatsDataSample_spa_final.txt"
+
