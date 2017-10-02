@@ -22,3 +22,5 @@ freq_common_count.py - calculates the frequency of all the words in a data. The 
 
 Corpus_spa_final.xml - The xml file which is required by the project
 
+
+
